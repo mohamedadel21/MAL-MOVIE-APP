@@ -6,9 +6,7 @@ import android.database.Cursor;
 import android.database.sqlite.SQLiteDatabase;
 import android.database.sqlite.SQLiteOpenHelper;
 
-/**
- * Created by m7md on 4/16/16.
- */
+
 public class MovieDB extends SQLiteOpenHelper {
     final static int DB_VERSION = 2;
     final static String DB_NAME = "movie";

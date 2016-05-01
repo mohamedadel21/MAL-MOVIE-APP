@@ -1,8 +1,6 @@
 package com.m7md.android.mymovieapp;
 
-/**
- * Created by m7md on 4/27/16.
- */
+
 public class Review {
     private String mAuthor;
     private String mContent;

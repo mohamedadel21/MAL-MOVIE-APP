@@ -9,10 +9,6 @@ import android.widget.LinearLayout;
 import android.widget.TextView;
 
 import java.util.ArrayList;
-
-/**
- * Created by m7md on 4/23/16.
- */
 public class ReviewsAdapter extends BaseAdapter {
     private final Context mContext;
     ArrayList<Review> reviews;

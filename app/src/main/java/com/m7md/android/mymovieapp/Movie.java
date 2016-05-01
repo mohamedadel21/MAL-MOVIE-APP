@@ -6,10 +6,6 @@ import android.os.Parcelable;
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
 import java.util.Date;
-
-/**
- * Created by m7md on 3/25/16.
- */
 public class Movie implements Parcelable {
     private String Trailer;
 
